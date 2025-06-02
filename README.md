@@ -38,7 +38,7 @@
 
 ## 📂 Folder Structure (if applicable)
 
-```bash
+ bash
 wordwise/
 ├── index.html
 ├── style.css
@@ -46,7 +46,9 @@ wordwise/
 ├── assets/
 ├── bookmarks.html
 └── search.html
+---
 
+## output
 
 ![image](https://github.com/user-attachments/assets/e2e27e6a-8e3a-4f2d-91c1-8a84c404dbbf)
 ![image](https://github.com/user-attachments/assets/c9e02daa-825a-486b-9f54-8fd172067118)
